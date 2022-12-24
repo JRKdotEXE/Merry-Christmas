@@ -26,9 +26,11 @@ body {
     width: 500px;
     margin-top: 7px;
     margin-left: 859px;
-    margin-right: 800px;
+    margin-right: 700px;
     margin-bottom: 700px;
 }
 @keyframes rotate{
     to{ transform: rotate(360deg); }
 }
+
+
