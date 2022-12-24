@@ -1,0 +1,31 @@
+body { 
+    margin: 0;
+    background-image: url("Christmastree.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 70vh;
+    font-family: Arial;
+}
+
+.seznamukolu {
+    margin-top: 110px;
+    color: white;
+    width: 500px;
+	height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rotate {
+    animation: rotate 5.5s linear infinite; 
+    width: 500px;
+    margin-top: 7px;
+    margin-left: 859px;
+    margin-right: 700px;
+    margin-bottom: 700px;
+}
+@keyframes rotate{
+    to{ transform: rotate(360deg); }
+}
+
