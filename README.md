@@ -1,2 +1,2 @@
-# Only wishing you a Merry Christma
+# Only wishing you a Merry Christmas
 https://jrkdotexe.github.io/merrychristmas/
