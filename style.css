@@ -7,7 +7,7 @@ body {
     background-position: center;
     background-size: cover;
     min-height: 70vh;
-    font-family: 'Inter Tight', sans-serif;
+    font-family: 'Inter Tight', 'sans-serif';
 }
 
 .t {
